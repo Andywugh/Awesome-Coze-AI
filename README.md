@@ -1,4 +1,4 @@
-# Awesome-Coze-AI
+# Awesome Coze AI
 
 🚀 Elevate Coze with our AI Bot 🤖, Workflow 🔄, Plugins 🛠, and Wiki 📚 - Innovation at your fingertips!
 
