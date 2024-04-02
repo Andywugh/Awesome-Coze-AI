@@ -1,5 +1,5 @@
 # Awesome Coze AI
 
-🚀 Elevate Coze with our AI Bot 🤖, Workflow 🔄, Plugins 🛠, and Wiki 📚 - Innovation at your fingertips!
+🚀 Elevate your work/life experience with our AI Bot🤖, Workflow🔄, Plugins🛠, and Wiki📚, all crafted using Coze - Innovation within reach!
 
-🚀 使用我们的AI机器人🤖、工作流🔄、插件🛠和Wiki📚，提升 Coze 体验 - 创新触手可及！
+🚀 使用扣子制作我们的AI机器人🤖、工作流🔄、插件🛠和Wiki📚，提升工作/生活体验 - 创新触手可及！
